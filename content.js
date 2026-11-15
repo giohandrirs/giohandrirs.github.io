@@ -178,6 +178,16 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "full-reel-giohandri-rs",
+          "type": "youtube",
+          "title": "Full Reel Giohandri RS",
+          "description": "",
+          "group": "",
+          "src": "https://www.youtube.com/watch?v=Ogy-mFqqMNk",
+          "thumb": "media/full-reel-giohandri-rs-thumb-z73x8g.jpg",
+          "ratio": 1.7778
+        },
+        {
           "id": "week-7-new",
           "type": "image",
           "title": "Week 7 new",
