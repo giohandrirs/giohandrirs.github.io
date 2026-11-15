@@ -180,7 +180,7 @@ window.PORTFOLIO = {
         {
           "id": "z-news-social-media",
           "type": "embed",
-          "title": "Z-News Social Media",
+          "title": "Newberry HS Football",
           "description": "",
           "group": "",
           "src": "https://www-ccv.adobe.io/v1/player/ccv/GaXKaLu7sFz/embed?bgcolor=%23000000&lazyLoading=false&api_key=BehancePro2View",
