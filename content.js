@@ -82,6 +82,16 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "after-further-review-p-d",
+          "type": "youtube",
+          "title": "After Further Review - P&D",
+          "description": "",
+          "group": "",
+          "src": "https://youtu.be/9YIoiiKVRLw",
+          "thumb": "media/after-further-review-p-d-thumb-b57wpx.jpg",
+          "ratio": 1.7778
+        },
+        {
           "id": "fade-and-balance",
           "type": "embed",
           "title": "Fade and Balance",
