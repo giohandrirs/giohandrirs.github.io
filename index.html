@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--meta:start-->
+<title>Giohandri Robinson-Santiago</title>
+<meta name="description" content="News, film, design and social media.">
+<meta property="og:title" content="Giohandri Robinson-Santiago">
+<meta property="og:description" content="News, film, design and social media.">
+<meta property="og:type" content="website">
+<!--meta:end-->
+<link rel="preload" href="fonts/archivo-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip-link" href="#main" id="skip-link">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="wordmark" href="#/" id="wordmark"></a>
+    <nav class="site-nav" aria-label="Sections" id="site-nav"></nav>
+  </div>
+</header>
+
+<main id="main" tabindex="-1"></main>
+
+<footer class="site-footer">
+  <div class="wrap footer-inner" id="site-footer"></div>
+</footer>
+
+<dialog class="viewer" id="viewer" aria-labelledby="viewer-title">
+  <div class="viewer-bar">
+    <p class="viewer-count" id="viewer-count" aria-live="polite"></p>
+    <button class="icon-button" type="button" id="viewer-close" aria-label="Close">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 5l14 14M19 5L5 19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <div class="viewer-stage" id="viewer-stage"></div>
+  <div class="viewer-foot">
+    <button class="icon-button" type="button" id="viewer-prev" aria-label="Previous">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M14.5 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+    <div class="viewer-caption">
+      <h2 id="viewer-title"></h2>
+      <p id="viewer-description"></p>
+      <a id="viewer-full" target="_blank" rel="noopener" hidden>Open full size</a>
+    </div>
+    <button class="icon-button" type="button" id="viewer-next" aria-label="Next">
+      <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M9.5 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </button>
+  </div>
+</dialog>
+
+<noscript><p style="padding:2rem">This portfolio needs JavaScript turned on to show the work.</p></noscript>
+
+<script>document.write('<script src="content.js?v=' + Math.floor(Date.now() / 60000) + '"><\/script>');</script>
+<script src="embeds.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

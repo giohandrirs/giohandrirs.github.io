@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Portfolio editor</title>
+<link rel="stylesheet" href="admin.css">
+</head>
+<body>
+
+<!-- Sign in / first-time password -->
+<main class="gate" id="gate" hidden>
+  <form class="gate-card" id="gate-form" novalidate>
+    <h1 id="gate-title">Portfolio editor</h1>
+    <p id="gate-text"></p>
+    <label class="field">
+      <span id="gate-label">Password</span>
+      <input type="password" id="gate-password" autocomplete="current-password" required>
+    </label>
+    <label class="field" id="gate-confirm-field" hidden>
+      <span>Type it again</span>
+      <input type="password" id="gate-confirm" autocomplete="new-password">
+    </label>
+    <p class="form-error" id="gate-error" role="alert" hidden></p>
+    <button class="button primary" type="submit" id="gate-submit">Sign in</button>
+    <p class="gate-help" id="gate-help" hidden>Your key is kept in this browser only. <a id="gate-new-key" href="#" target="_blank" rel="noopener">Lost it? Make a new one</a></p>
+  </form>
+</main>
+
+<!-- Editor -->
+<div class="app" id="app" hidden>
+  <header class="topbar">
+    <p class="topbar-title">Portfolio editor</p>
+    <p class="save-state" id="save-state" role="status" aria-live="polite"></p>
+    <div class="topbar-actions">
+      <a class="button" href="../" target="_blank" rel="noopener">View site</a>
+      <button class="button quiet" type="button" id="sign-out">Sign out</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidebar" aria-label="Editor" id="sidebar"></nav>
+    <main class="panel" id="panel" tabindex="-1"></main>
+  </div>
+</div>
+
+<div class="toasts" id="toasts" role="status" aria-live="polite"></div>
+<div class="drop-veil" id="drop-veil" hidden><p id="drop-veil-text">Drop to add</p></div>
+<input type="file" id="file-picker" hidden>
+
+<script src="../embeds.js"></script>
+<script src="config.js"></script>
+<script src="github.js"></script>
+<script src="admin.js"></script>
+</body>
+</html>
