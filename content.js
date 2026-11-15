@@ -178,16 +178,6 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
-          "id": "9-9-promo",
-          "type": "youtube",
-          "title": "9 9 promo",
-          "description": "",
-          "group": "",
-          "src": "https://youtu.be/BIlIzX62bN4",
-          "thumb": "media/9-9-promo-thumb-coh70g.jpg",
-          "ratio": 1.7778
-        },
-        {
           "id": "9-22-post",
           "type": "youtube",
           "title": "9 22 post",
