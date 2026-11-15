@@ -178,6 +178,16 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "9-22-post",
+          "type": "youtube",
+          "title": "9 22 post",
+          "description": "",
+          "group": "",
+          "src": "https://youtube.com/shorts/PXE7u7EtKyA",
+          "thumb": "media/9-22-post-thumb-hfot7g.jpg",
+          "ratio": 0.5625
+        },
+        {
           "id": "week-0-edit",
           "type": "youtube",
           "title": "Week 0 edit",
