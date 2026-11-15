@@ -184,7 +184,7 @@ window.PORTFOLIO = {
           "description": "",
           "group": "",
           "src": "https://youtu.be/B_lccvsZnb4",
-          "thumb": "media/marcus-mic-d-williston-thumb-fkhlyj.jpg",
+          "thumb": "media/screenshot-2026-11-15-at-1-56-32-pm-c9qh6a.jpg",
           "ratio": 1.7778
         },
         {
