@@ -173,7 +173,7 @@ window.PORTFOLIO = {
     },
     {
       "id": "social-media",
-      "title": "Newberry ",
+      "title": "Newberry HS Football",
       "description": "",
       "cover": "",
       "items": [
