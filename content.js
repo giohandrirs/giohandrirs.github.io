@@ -176,7 +176,28 @@ window.PORTFOLIO = {
       "title": "Newberry HS Football",
       "description": "",
       "cover": "",
-      "items": []
+      "items": [
+        {
+          "id": "week-1",
+          "type": "image",
+          "title": "Week 1",
+          "description": "",
+          "group": "",
+          "src": "media/week-1-yi3r4k.jpg",
+          "thumb": "media/week-1-thumb-f4s9xg.jpg",
+          "ratio": 0.75
+        },
+        {
+          "id": "gameday-week-0",
+          "type": "image",
+          "title": "Gameday week 0",
+          "description": "",
+          "group": "",
+          "src": "media/gameday-week-0-pe8lpl.png",
+          "thumb": "media/gameday-week-0-thumb-aciu45.jpg",
+          "ratio": 0.8
+        }
+      ]
     }
   ]
 };
