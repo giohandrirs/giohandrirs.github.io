@@ -173,7 +173,7 @@ window.PORTFOLIO = {
     },
     {
       "id": "social-media",
-      "title": "Social Media",
+      "title": "Newberry ",
       "description": "",
       "cover": "",
       "items": [
