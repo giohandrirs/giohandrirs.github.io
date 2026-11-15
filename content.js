@@ -226,7 +226,7 @@ window.PORTFOLIO = {
         {
           "id": "week-7-new",
           "type": "image",
-          "title": "Week 7 new",
+          "title": "Week 7",
           "description": "",
           "group": "",
           "src": "media/week-7-new-l4egou.jpg",
