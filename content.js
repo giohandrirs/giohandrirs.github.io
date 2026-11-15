@@ -24,7 +24,7 @@ window.PORTFOLIO = {
         "url": "giohandrirs@gmail.com"
       }
     ],
-    "theme": "light",
+    "theme": "dark",
     "accent": "#0e627f"
   },
   "sections": [
