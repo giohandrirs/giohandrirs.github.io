@@ -79,7 +79,7 @@ window.PORTFOLIO = {
       "id": "film",
       "title": "Film",
       "description": "",
-      "cover": "media/dsc07464-j9u5e7.jpg",
+      "cover": "media/dsc07464-dkf7q7.jpg",
       "items": [
         {
           "id": "fade-and-balance",
