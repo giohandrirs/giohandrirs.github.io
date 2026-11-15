@@ -112,16 +112,6 @@ window.PORTFOLIO = {
           "ratio": 1.7778
         },
         {
-          "id": "after-further-review-p-d",
-          "type": "youtube",
-          "title": "After Further Review - P&D",
-          "description": "",
-          "group": "",
-          "src": "https://youtu.be/9YIoiiKVRLw",
-          "thumb": "media/after-further-review-p-d-thumb-b57wpx.jpg",
-          "ratio": 1.7778
-        },
-        {
           "id": "mini-soccer-narrative",
           "type": "embed",
           "title": "Mini Soccer Narrative",
@@ -129,6 +119,16 @@ window.PORTFOLIO = {
           "group": "",
           "src": "https://www-ccv.adobe.io/v1/player/ccv/Kd9ttz4D-rb/embed?bgcolor=%23000000&lazyLoading=false&api_key=BehancePro2View",
           "thumb": "media/mini-soccer-narrative-thumb.jpg",
+          "ratio": 1.7778
+        },
+        {
+          "id": "after-further-review-p-d",
+          "type": "youtube",
+          "title": "After Further Review - P&D",
+          "description": "",
+          "group": "",
+          "src": "https://youtu.be/9YIoiiKVRLw",
+          "thumb": "media/after-further-review-p-d-thumb-b57wpx.jpg",
           "ratio": 1.7778
         }
       ]
