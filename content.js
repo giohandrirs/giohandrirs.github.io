@@ -1,7 +1,7 @@
 window.PORTFOLIO = {
   "site": {
     "name": "Giohandri Robinson-Santiago",
-    "headline": "News, film, design and social media.",
+    "headline": "MEDIA PORTFOLIO",
     "intro": "",
     "banner": "media/home-banner.jpg",
     "about": "",
