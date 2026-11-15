@@ -178,6 +178,26 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "week-7-new",
+          "type": "image",
+          "title": "Week 7 new",
+          "description": "",
+          "group": "",
+          "src": "media/week-7-new-l4egou.jpg",
+          "thumb": "media/week-7-new-thumb-em8bxx.jpg",
+          "ratio": 0.8
+        },
+        {
+          "id": "week-3",
+          "type": "image",
+          "title": "Week 3",
+          "description": "",
+          "group": "",
+          "src": "media/week-3-t3lw6w.png",
+          "thumb": "media/week-3-thumb-fs5skm.jpg",
+          "ratio": 0.75
+        },
+        {
           "id": "week-1",
           "type": "image",
           "title": "Week 1",
