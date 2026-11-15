@@ -21,7 +21,7 @@ window.PORTFOLIO = {
       }
     ],
     "theme": "dark",
-    "accent": "#808080"
+    "accent": "#b0b0b0"
   },
   "sections": [
     {
