@@ -178,6 +178,16 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "week-0-edit",
+          "type": "youtube",
+          "title": "Week 0 edit",
+          "description": "",
+          "group": "",
+          "src": "https://youtube.com/shorts/3sstEUUddAU",
+          "thumb": "media/week-0-edit-thumb-85fi7m.jpg",
+          "ratio": 0.5625
+        },
+        {
           "id": "week-7-new",
           "type": "image",
           "title": "Week 7 new",
