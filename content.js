@@ -137,7 +137,7 @@ window.PORTFOLIO = {
       "id": "design",
       "title": "Design",
       "description": "",
-      "cover": "",
+      "cover": "media/keyboard-n5ab9g.jpeg",
       "items": [
         {
           "id": "christmas-in-hawaii-cover",
