@@ -175,7 +175,7 @@ window.PORTFOLIO = {
       "id": "social-media",
       "title": "Newberry HS Football",
       "description": "",
-      "cover": "",
+      "cover": "media/9-2-post-1-zxt0ms.jpg",
       "items": [
         {
           "id": "marcus-mic-d-williston",
