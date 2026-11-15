@@ -176,18 +176,7 @@ window.PORTFOLIO = {
       "title": "Newberry HS Football",
       "description": "",
       "cover": "",
-      "items": [
-        {
-          "id": "z-news-social-media",
-          "type": "embed",
-          "title": "Newberry HS Football",
-          "description": "",
-          "group": "",
-          "src": "https://www-ccv.adobe.io/v1/player/ccv/GaXKaLu7sFz/embed?bgcolor=%23000000&lazyLoading=false&api_key=BehancePro2View",
-          "thumb": "media/z-news-social-media-thumb.jpg",
-          "ratio": 1.7778
-        }
-      ]
+      "items": []
     }
   ]
 };
