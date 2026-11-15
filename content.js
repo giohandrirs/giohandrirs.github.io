@@ -216,7 +216,7 @@ window.PORTFOLIO = {
         {
           "id": "week-0-edit",
           "type": "youtube",
-          "title": "Week 0 edit",
+          "title": "Week 0",
           "description": "",
           "group": "",
           "src": "https://youtube.com/shorts/3sstEUUddAU",
