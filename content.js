@@ -184,16 +184,6 @@ window.PORTFOLIO = {
       "cover": "media/9-2-post-1-zxt0ms.jpg",
       "items": [
         {
-          "id": "marcus-mic-d-williston",
-          "type": "youtube",
-          "title": "Marcus Mic'd",
-          "description": "",
-          "group": "",
-          "src": "https://youtu.be/B_lccvsZnb4",
-          "thumb": "media/screenshot-2026-11-15-at-1-56-32-pm-c9qh6a.jpg",
-          "ratio": 1.7778
-        },
-        {
           "id": "slomo-promo",
           "type": "youtube",
           "title": "Slomo Promo",
@@ -212,6 +202,16 @@ window.PORTFOLIO = {
           "src": "https://youtube.com/shorts/PXE7u7EtKyA",
           "thumb": "media/9-22-post-thumb-hfot7g.jpg",
           "ratio": 0.5625
+        },
+        {
+          "id": "marcus-mic-d-williston",
+          "type": "youtube",
+          "title": "Marcus Mic'd",
+          "description": "",
+          "group": "",
+          "src": "https://youtu.be/B_lccvsZnb4",
+          "thumb": "media/screenshot-2026-11-15-at-1-56-32-pm-c9qh6a.jpg",
+          "ratio": 1.7778
         },
         {
           "id": "week-7-new",
