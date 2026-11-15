@@ -178,6 +178,16 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
+          "id": "youtube",
+          "type": "youtube",
+          "title": "YouTube",
+          "description": "",
+          "group": "",
+          "src": "https://youtu.be/B_lccvsZnb4",
+          "thumb": "https://i.ytimg.com/vi/B_lccvsZnb4/hqdefault.jpg",
+          "ratio": 1.7778
+        },
+        {
           "id": "slomo-promo",
           "type": "youtube",
           "title": "Slomo Promo",
