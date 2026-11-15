@@ -18,6 +18,10 @@ window.PORTFOLIO = {
       {
         "label": "YouTube",
         "url": "https://www.youtube.com/@giohandrirobinson-santiago1638/videos"
+      },
+      {
+        "label": "Email ",
+        "url": "giohandrirs@gmail.com"
       }
     ],
     "theme": "light",
