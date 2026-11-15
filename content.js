@@ -174,16 +174,6 @@ window.PORTFOLIO = {
       "cover": "",
       "items": [
         {
-          "id": "test-photo-big",
-          "type": "image",
-          "title": "Test photo big",
-          "description": "",
-          "group": "",
-          "src": "media/test-photo-big-c4q8di.jpg",
-          "thumb": "media/test-photo-big-thumb-jlpyjc.jpg",
-          "ratio": 1.5
-        },
-        {
           "id": "z-news-social-media",
           "type": "embed",
           "title": "Z-News Social Media",
